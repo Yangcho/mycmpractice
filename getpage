@@ -14,7 +14,7 @@ request(url, function (err, res, html) {
 var request = require('request'),
     cheerio = require('cheerio');
 
-var url = "http://codenamu.org/blog/";
+var url = "https://hamtopia.com/";
  
 
 request(url, function (err, res, html) {
